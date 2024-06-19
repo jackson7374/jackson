@@ -68,3 +68,75 @@
     </footer>
 </body>
 </html>
+
+
+
+
+CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS 
+
+@charset "UTF-8";
+
+body{
+    background-color: rgba(71, 177, 71, 0.842);
+}
+main#cabecalho{
+    background-image: linear-gradient(#058905bb,#146114c0,#174417c4);
+    margin: 0px;
+}
+main{
+    background-color: #fff;
+    margin-left: 110px;
+    margin-right: 110px;
+    padding: 10px;
+}
+div{
+    text-align: center;
+    display: inline-table;
+    margin-right: 20px;
+    color: #fff;
+}
+div:hover{
+    background-color: rgba(169, 169, 169, 0.699);
+    height: 13px;
+    width: auto;
+}
+footer{
+    text-align: center;
+    background-color: #174417c4;
+    color: #fff;
+    padding: 1px;
+    height: 46px;
+}
+section#aprender{
+    background-color: #1b6b1bcb;
+    color: #fff;
+}
+article{
+    background-color: #8fe28fe7;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #197919;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #115211;
+    background-color: #19791962;
+}
+h3{
+    background-color: #114911;
+    color: #fff;
+}
+p{
+    font-family: serif;
+    text-align: justify;
+}
+
+h1.titulo{
+    text-align: center;
+    color: #fff;
+}
+p.assunto{
+    text-align: center;
+    color: #fff; 
+}
